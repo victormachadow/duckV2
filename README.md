@@ -2,6 +2,7 @@
 
 Instructions:
    *Download and install Corona SkD/Solar2D
+   
    *Open main file on Corona Sdk Simulator
 
   Description :
